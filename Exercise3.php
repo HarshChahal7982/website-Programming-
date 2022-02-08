@@ -26,9 +26,6 @@ if($color=="red"){
 echo "<br>";
 
 
-
-
-
 /* 3. Write a program to grade students based on their total score for a subject. The grading scheme is: Excellent : >80 ;Great >70 & less than 80;Good >60 & less than 70; Pass >50 & less than 60 & Fail <50 */
 
   $grade=85;
@@ -96,3 +93,5 @@ echo "<br>";
 
 
 ?> 
+<a href="https://harsh21001.github.io/website-project/" target="_blank">webpage'</a>
+<a href="https://github.com/harsh21001/website-project" target="_blank">github repo</a>
