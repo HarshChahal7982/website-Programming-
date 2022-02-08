@@ -91,7 +91,6 @@ echo "<br>";
 
 /* 4. Write a program to get inputs (age and name) from the user and based on their age, decide if he/she is eligible for voting. (18 or more than 18 years is eligible for voting.) */
 
-
+echo '<a href="https://harsh21001.github.io/website-project/" target="_blank">webpage</a>
+<a href="https://github.com/harsh21001/website-project" target="_blank">github repo</a>'
 ?> 
-<a href="https://harsh21001.github.io/website-project/" target="_blank">webpage'</a>
-<a href="https://github.com/harsh21001/website-project" target="_blank">github repo</a>
